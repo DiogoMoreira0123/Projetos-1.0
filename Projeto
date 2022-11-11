@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title> Teste de Códigos</title>
+</head>
+
+<style>
+      
+      body {
+
+          font: 18pt arial; }
+      
+
+      p1 {background-color: rgb(45, 96, 197);   font: 15pt arial;}
+
+
+      body {
+
+        background-color: rgb(45, 96, 197);
+
+      }
+
+
+</style>
+
+
+<body>
+<strong>
+ <ol>    
+ <h1>Formulário</h1>
+
+ <p>Seu nome completo:</p>
+ <input type="text"> <br/>
+
+ <strong><p>Coloque seu email:</p>
+ <input type="email">
+
+ <p>Crie uma senha:</p>
+ <input type="password">
+
+ <p>Corfirme sua senha:</p>
+ <input type="password">
+
+ <p>Mora em Londrina?</p>
+ </strong>
+ <p1>SIM</p1><input type="radio">
+ <p1>NÃO</p1><input type="radio"> 
+ 
+
+ 
+ <p>Seu número de telefone:</p>
+ <input type="tel">
+
+ <p>Sua Foto:</p>
+ <input type="file">
+ 
+<p>Mês e ano em que nasceu:</p>
+ <input type="month">
+
+ <!--
+ <input type="button">
+ <input type="color">
+ <input type="hidden"> 
+ <input type="date">
+ <input type:"datetime-local">
+ <input type="week">
+ <input type="url">
+ <input type="search">
+ <input type="tel">
+ <input type="range">
+ <input type="submit">
+ <input type="reset">
+ <input type="checkbox">
+ <input type="image"> 
+ <input type="time">
+-->
+</strong>
+</ol> 
+</body>
+
+<script>
+
+window.confirm('Seja muito bem vindo(a)!') 
+window.alert(`Coloque seus Dados!`)
+
+</script>
+
+
+
+
+</html>
